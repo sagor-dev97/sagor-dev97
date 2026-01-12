@@ -1,78 +1,36 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sagor</h1>
-<h2 align="center">Full Stack Developer</h2>
-<h3 align="center">
-I possess a deep understanding of web and software development.
-My technical expertise enables me to build scalable, secure, and high-quality digital solutions.
-I enjoy solving complex problems and continuously learning modern technologies.
-</h3>
+<h1>I am Fulstack Developer</h1>
+<h3 align="center wraped">I possess a deep understanding of the inner workings of web and software development, and my proficiency in these technical fields has equipped me with the necessary skills to create top-notch digital solutions. My passion for technology and technical expertise has enabled me to solve complex problems effectively. I am dedicated to staying up-to-date with the latest technology and software development trends and always willing to explore new solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsagor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsagor" /> </p>
+
+- 🔭 I am currently working as a Jr. Laravel Developer At https://softvence.agency/
+- 🔭 I’m currently working on [Student of Isdb-Bisew Scholarship Programm](https://www.isdb-bisew.org/)
+
+- 🌱 I’m currently learning **React,Laravel,Vue js**
+
+- 📫 How to reach me **sagorwdpf@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadsagor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsagor" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sagor-428047322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sagor-428047322/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100045801773895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100045801773895" height="30" width="40" /></a>
 </p>
 
----
-## 👨‍💻 About Me
-- 🔭 Working as a **Junior Laravel Developer** at **Softvence Agency**
-- 🎓 Student of **IsDB-BISEW IT Scholarship Program**
-- 🌱 Currently learning **Laravel, Vue.js, React**
-- 📫 Email: **sagorwdpf@gmail.com**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
-## 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-sagor-428047322/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100045801773895" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-</p>
 
----
-## 🛠 Languages and Tools
-<p align="left">
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/></a>
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
-<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-</p>
+## GitHub Activity
 
----
-## 📊 GitHub Activity
+| GitHub Streak | Top Languages |
+| --- | --- |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsagor&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsagor&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammadsagor&theme=dark" />
-</p>
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsagor&layout=compact&theme=dark&langs_count=6" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsagor&show_icons=true&locale=en&layout=compact" alt="muhammadsagor" /></p>
 
-### 🧾 Contribution Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsagor&theme=github_dark" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsagor&show_icons=true&locale=en" alt="muhammadsagor" /></p>
 
-### ⚡ Activity Quadrant Graph
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUwIiBoZWlnaHQ9IjQ1MCIgdmlld0JveD0iMCAwIDQ1MCA0NTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgdz0iNDUwIiBoPSI0NTAiIGZpbGw9IiMyMjIyMjIiLz4KICA8bGluZSB4MT0iMCIgeTE9IjIyNSIgeDI9IjQ1MCIgeTI9IjIyNSIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjMiLz4KICA8bGluZSB4MT0iMjI1IiB5MT0iMCIgeDI9IjIyNSIgeTI9IjQ1MCIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjMiLz4KICA8Y2lyY2xlIGN4PSIyMjUiIGN5PSIyMjUiIHI9IjEyIiBmaWxsPSIjMGY4MTFlIi8+CiAgPGxpbmUgeDE9IjIyNSIgeTE9IjIyNSIgeDI9IjUwIiB5Mj0iMjI1IiBzdHJva2U9IiMwZjgxMWUiIHN0cm9rZS13aWR0aD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDx0ZXh0IHg9IjQwIiB5PSIyMTUiIGZpbGw9IiM4OGQiIGZvbnQtc2l6ZT0iMjQiIHRleHQtYW5jaG9yPSJlbmQiPjEwMCUgQ29tbWl0czwvdGV4dD4KICA8dGV4dCB4PSI0MTAiIHk9IjIxNSIgZmlsbD0iIzg4ZCIgZm9udC1zaXplPSIyNCIgdGV4dC1hbmNob3I9InN0YXJ0Ij5Jc3N1ZXM8L3RleHQ+CiAgPHRleHQgeD0iMjI1IiB5PSI0MjAiIGZpbGw9IiM4OGQiIGZvbnQtc2l6ZT0iMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlB1bGwgUmVxdWVzdHM8L3RleHQ+CiAgPHRleHQgeD0iMjI1IiB5PSI1MCIgZmlsbD0iIzg4ZCIgZm9udC1zaXplPSIyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Q29kZSBSZXZpZXc8L3RleHQ+Cjwvc3ZnPg==" alt="Activity Quadrant Graph" />
-</p>
-
-<p align="center"><i>This quadrant graph shows contribution balance: 100% focus on commits (left side), with limited activity in issues, pull requests, and code reviews.</i></p>
-
----
-## 🎯 Focus Areas
-- Laravel REST API Development
-- Authentication (JWT / Sanctum)
-- Payment Gateway Integration
-- Database Design & Optimization
-- Vue.js & React Frontend Integration
-
----
-⭐ Thank you for visiting my profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsagor&" alt="muhammadsagor" /></p>
+why most use language don't count?
